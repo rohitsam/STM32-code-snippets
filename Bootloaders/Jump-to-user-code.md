@@ -63,7 +63,7 @@ void jump_to_user_app1(void)
 ```
 
 
-## USER CODE
+## USER-APPLICATION CODE
 
 1. Change the *Vector Table base offset field* in the system_stm32f4xx.c file with the first 2 bytes of the new flash sector.
 
