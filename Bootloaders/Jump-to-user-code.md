@@ -76,8 +76,9 @@ void jump_to_user_app1(void)
 
 
 
-[^1]: This snippet is for STM32's M0+ families, It worked fine for me on stm32f411.
-[^2]: I will update the code for other family aswell.
+ This snippet is for STM32's M0+ families, It worked :tada: fine for me on stm32f411.
+ 
+ I will update the code for other family aswell.
 
 
                                    
