@@ -74,7 +74,7 @@ void jump_to_user_app1(void)
 `FLASH (rx)      : ORIGIN = 0x08008000, LENGTH = 512K`
 
 
-
+***---
 
  This snippet is for STM32's M0+ families, It worked :tada: fine for me on stm32f411.
  
