@@ -15,7 +15,8 @@ This is the repo for many code snippets That I dont want to rewrite everytime.
 	
 	* [Unique id](FLASH/unique-id.md)
 
-*I2C
+* I2C
+
 	* [i2c scanner](I2C/i2c_scanner.md)
 
 * UART
