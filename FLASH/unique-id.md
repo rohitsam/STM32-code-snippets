@@ -64,13 +64,13 @@ bool uid_cmp(struct u_id *id1, struct u_id *id2)
 
 U_ID register address in different lines of stm32
 
-Device line  Starting address
------------- | ----------------
-F0,F3 | 0x1FFFF7AC
-F1 	  | 0x1FFFF7E8
-F2,F4 |	0x1FFF7A10
-F7 	  | 0x1FF0F420
-L0 	  | 0x1FF80050
+|Device line | Starting address|
+|------------ | ----------------|
+| F0,F3 | 0x1FFFF7AC |
+| F1 	  | 0x1FFFF7E8 |
+| F2,F4 |	0x1FFF7A10 |
+| F7 	  | 0x1FF0F420 |
+| L0 	  | 0x1FF80050 |
 
 
 
