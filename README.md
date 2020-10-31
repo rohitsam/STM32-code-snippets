@@ -23,6 +23,8 @@ This is the repo for many code snippets That I dont want to rewrite everytime.
 	
 	* [uart read interrupt mode with a ring buffer](UART/uart-receive-inturrupt-circular-buffer.md)
 	
+	* [printf implementation for uart](UART/printf-implement.md)
+	
 	
 
 
